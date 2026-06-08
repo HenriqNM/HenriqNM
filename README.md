@@ -1,15 +1,25 @@
-# HenriqNM / README.md
+<img src="undraw_cli-coding-agent_jtq1.svg" min-width="400px" max-width="400px" width="400px" align="right">
 
-I'm Henrique, Software Engineering student at FIAP, from Brazil 🇧🇷
+<p align="left"> 
+  I'm Henrique, I'm 18 years old and I'm from Brazil 🇧🇷
+</p>
 
-📌 **Tech:** Python
+<br>
 
-🛠️ **Tools:** PyCharm, Git, Linux
+<p align="left">
+  📌 Tech: <strong>Python</strong>
+</p>
 
-Email: velpointl2@gmail.com
+<p align="left">
+  ⚒️ Tools: <strong>Python, Git, Linux</strong>
+</p>
 
-Discord: @1203120984
+<br>
 
-<p align="right">
-  <img src="undraw_cli-coding-agent_jtq1.svg" width="40%" alt="Vector illustration of a developer setup">
+<p align="left">
+  Email: <a href="mailto:velpointl2@gmail.com" title="Email">velpointl2@gmail.com</a>
+</p>
+
+<p align="left">
+  Discord: <a href="https://discord.com/users/1250600100997369936" title="Discord">@1203120984</a>
 </p>
