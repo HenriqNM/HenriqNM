@@ -1,4 +1,4 @@
-<img src="undraw_cli-coding-agent_jtq1.svg" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="undraw_code-deployed_iwvu.svg" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   I'm Henrique, I'm 18 years old and I'm from Brazil 🇧🇷
