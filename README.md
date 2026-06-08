@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  ⚒️ Tools: <strong>Python, Git, Linux</strong>
+  ⚒️ Tools: <strong>Git, Linux</strong>
 </p>
 
 <br>
