@@ -1,7 +1,7 @@
 <img src="undraw_programming_j1zw.svg" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  I'm Henrique, I'm 18 years old and I'm from Brazil 🇧🇷
+  I'm Henrique, 18 years old, Software Engineering student at FIAP, from Brazil 🇧🇷
 </p>
 
 <br>
