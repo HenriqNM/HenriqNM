@@ -1,4 +1,4 @@
-<img src="undraw_programming_j1zw.svg" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="undraw_programming_j1zw.svg" min-width="350px" max-width="350px" width="350px" align="right">
 
 <p align="left"> 
   I'm Henrique, 18 years old, Software Engineering student at FIAP, from Brazil 🇧🇷
